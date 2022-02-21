@@ -14,7 +14,8 @@ _Original KB number:_ &nbsp; 884205
 
 ## Determine the server that contains the master secret
 
-You must follow these steps only on the Enterprise SSO server that contains the master secret. To determine the server that contains the master secret, follow these steps:
+You must follow these steps only on the Enterprise SSO 
+server that contains the master secret. To determine the server that contains the master secret, follow these steps:
 
 1. Open a Command Prompt window. To do this, select **Start**, type *cmd*, and then press Enter.
 2. At the command prompt, change to the Enterprise SSO installation folder, and then type `ssomanage -displaydb`.
